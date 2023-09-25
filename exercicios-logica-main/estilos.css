@@ -1,0 +1,17 @@
+.body{
+    background-color: black;
+}
+
+#corfundo {
+    color: rgb(29, 231, 221);
+    padding: 10px;
+    display: inline-block;
+    transition: background-color 0.4s ease-in-out;
+  }
+
+  #corfundo2 {
+    color: rgb(29, 32, 231);
+    padding: 10px;
+    display: inline-block;
+    transition: background-color 0.4s ease-in-out;
+  }
